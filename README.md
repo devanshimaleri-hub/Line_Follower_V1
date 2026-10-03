@@ -18,7 +18,7 @@ One of the key features that helped the robot handle the competition track was i
 
 ## Team
 
-![Team Photo](media/team_photo.jpg)
+![Team Photo](media/team_line.jpeg)
 
 ---
 
@@ -26,7 +26,7 @@ One of the key features that helped the robot handle the competition track was i
 
 ### Line Follower in Action
 
-[Watch the Line Follower Demo](media/line_follower.mp4)
+[Watch the Line Follower Demo](media/demo_line.mp4)
 
 ---
 
@@ -116,7 +116,7 @@ The second Arduino is dedicated to obstacle detection and stopping the robot whe
 
 ## The Robot
 
-![Line Follower Robot](media/bot_photo.jpg)
+![Line Follower Robot](media/robot_line.jpeg)
 
 ---
 
